@@ -1,5 +1,5 @@
-const first = () => console.log('first');
-const second = () => console.log('second');
+const first = () => console.log('first (setImmediate)');
+const second = () => console.log('second (setTimeout)');
 const third = () => console.log('third');
 
 setImmediate(first);

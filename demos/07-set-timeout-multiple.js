@@ -1,6 +1,6 @@
-const first = () => console.log('first');
-const second = () => console.log('second');
-const third = () => console.log('third');
+const first = () => console.log('first (setTImeout)');
+const second = () => console.log('second (setTImeout)');
+const third = () => console.log('third (setTImeout)');
 
 setTimeout(first, 1000);
 setTimeout(second, 1000);

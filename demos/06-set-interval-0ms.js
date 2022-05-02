@@ -3,7 +3,7 @@ const first = () => console.log('first');
 let count = 0;
 
 const second = () => {
-  console.log('second');
+  console.log('second (setInterval)');
   count++;
 
   if (count >= 5) {
