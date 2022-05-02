@@ -1,0 +1,18 @@
+{
+  "name": "nodejs-event-loop-presentation",
+  "version": "1.0.0",
+  "description": "Presentation slides and demo examples for the Node.js event loop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "event",
+    "loop",
+    "tutorial"
+  ],
+  "author": "Tyler Hawkins",
+  "license": "ISC"
+}
