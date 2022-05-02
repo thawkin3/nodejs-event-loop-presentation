@@ -4,6 +4,8 @@
   "description": "Presentation slides and demo examples for the Node.js event loop",
   "main": "index.js",
   "scripts": {
+    "format": "prettier --write .",
+    "format-watch": "onchange . -- prettier --write {{changed}}",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -14,5 +16,9 @@
     "tutorial"
   ],
   "author": "Tyler Hawkins",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "onchange": "^7.1.0",
+    "prettier": "^2.6.2"
+  }
 }

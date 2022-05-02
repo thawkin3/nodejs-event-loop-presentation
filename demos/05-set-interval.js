@@ -9,7 +9,7 @@ const second = () => {
   if (count >= 5) {
     clearInterval(myInterval);
   }
-}
+};
 
 const third = () => console.log('third');
 
