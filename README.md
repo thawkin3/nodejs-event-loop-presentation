@@ -26,3 +26,4 @@ Try to guess the order in which the functions will be executed before running ea
 ### Talks
 
 - [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ&ab_channel=JSConf)
+- [Further Adventures of the Event Loop](https://www.youtube.com/watch?v=u1kqx6AenYw&ab_channel=JSConf)
