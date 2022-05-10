@@ -1,7 +1,7 @@
-const first = () => console.log('first (setTImeout)');
-const second = () => console.log('second (setTImeout)');
-const third = () => console.log('third (setTImeout)');
+const first = () => console.log('first (setTimeout)');
+const second = () => console.log('second (setTimeout)');
+const third = () => console.log('third (setTimeout)');
 
-setTimeout(first, 1000);
-setTimeout(second, 1000);
-setTimeout(third, 1000);
+setTimeout(first, 500);
+setTimeout(second, 500);
+setTimeout(third, 500);
