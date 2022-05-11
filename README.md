@@ -29,6 +29,8 @@ Try to guess the order in which the functions will be executed before running ea
 - [Node.js Event Loop (Geeks for Geeks)](https://www.geeksforgeeks.org/node-js-event-loop/)
 - [JavaScript Event Loop (JavaScript Tutorial)](https://www.javascripttutorial.net/javascript-event-loop/)
 - [The event loop (MDN)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop)
+- [Microtasks](https://javascript.info/microtask-queue)
+- [Promises, Next-Ticks, and Immediates](https://blog.insiderattack.net/promises-next-ticks-and-immediates-nodejs-event-loop-part-3-9226cbe7a6aa)
 
 ### Talks
 
