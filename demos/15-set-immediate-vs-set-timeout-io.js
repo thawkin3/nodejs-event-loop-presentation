@@ -12,11 +12,8 @@ const fourthSetTimeout = () => console.log('setTimeout 4');
 
 fs.readFile('package.json', 'utf8', (err, data) => {
   if (err) {
-    console.log(err);
-    return;
+    return console.log(err);
   }
-
-  console.log(data);
 
   setImmediate(firstSetImmediate);
   setTimeout(firstSetTimeout, 0);

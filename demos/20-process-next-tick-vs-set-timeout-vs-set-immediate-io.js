@@ -7,11 +7,8 @@ const fourth = () => console.log('fourth');
 
 fs.readFile('package.json', 'utf8', (err, data) => {
   if (err) {
-    console.log(err);
-    return;
+    return console.log(err);
   }
-
-  console.log(data);
 
   setImmediate(first);
   setTimeout(second, 0);
