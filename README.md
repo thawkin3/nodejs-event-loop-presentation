@@ -4,7 +4,7 @@ This repo contains slides and demo examples for my talk "Understanding the Node.
 
 I'll also be presenting this at UtahJS on September 23, 2022 with the talk title "A Deep Dive Into the Node.js Event Loop."
 
-![Node.js Event Loop](./slides/08%20Node.js%20Event%20Loop%20(Example).png)
+![Node.js Event Loop](<./slides/08%20Node.js%20Event%20Loop%20(Example).png>)
 
 ## Using This Repo
 
