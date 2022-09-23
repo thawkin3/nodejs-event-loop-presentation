@@ -2,7 +2,7 @@
 
 This repo contains slides and demo examples for my talk "Understanding the Node.js Event Loop" that I presented at the [Node.js Global Summit 2022](https://www.youtube.com/watch?v=RYpivX9P8-I&t=32415s&ab_channel=GeekleOfficial) on May 18, 2022.
 
-I'll also be presenting this at UtahJS on September 23, 2022.
+I'll also be presenting this at UtahJS on September 23, 2022 with the talk title "A Deep Dive Into the Node.js Event Loop."
 
 ![Node.js Event Loop](./slides/08%20Node.js%20Event%20Loop%20(Example).png)
 
